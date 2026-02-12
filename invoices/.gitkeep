@@ -1,0 +1,4 @@
+# Keep this directory but ignore its contents (except this file)
+*
+!.gitkeep
+!README.md
