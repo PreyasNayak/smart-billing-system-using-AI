@@ -2,6 +2,25 @@
 
 An intelligent billing system that combines computer vision and IoT hardware to automatically detect products, measure their weight, and generate invoice bills in real-time.
 
+## 📚 Documentation
+
+**New to the project?** Start here:
+- 🚀 [Quick Start Guide](QUICKSTART.md) - Get up and running in 25-30 minutes
+- ❓ [FAQ](FAQ.md) - Common questions and answers
+- 🔧 [Hardware Setup](HARDWARE.md) - Detailed wiring and component guide
+
+**For Developers:**
+- 🏗️ [Architecture](ARCHITECTURE.md) - System design and data flow
+- 🤝 [Contributing](CONTRIBUTING.md) - How to contribute to the project
+- 🗺️ [Roadmap](ROADMAP.md) - Planned features and timeline
+
+**Reference:**
+- 📖 [Full Documentation](#table-of-contents) - See below
+- 📝 [Changelog](CHANGELOG.md) - Version history
+- ⚖️ [License](LICENSE) - MIT License
+
+---
+
 ## 🌟 Features
 
 - **Object Detection**: Uses YOLO (You Only Look Once) machine learning model to identify products
