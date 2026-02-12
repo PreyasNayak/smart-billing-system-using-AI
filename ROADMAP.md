@@ -108,4 +108,4 @@ Have ideas for the roadmap?
 
 **Note**: This roadmap is subject to change based on community needs and contributions.
 
-Last Updated: February 2026
+Last Updated: February 12, 2026
