@@ -1,0 +1,46 @@
+{
+  "camera": {
+    "index": 0,
+    "resolution": [640, 480],
+    "fps": 30,
+    "rotation": 0
+  },
+  "yolo": {
+    "model": "yolov8n.pt",
+    "confidence": 0.5,
+    "iou_threshold": 0.45,
+    "device": "cpu"
+  },
+  "scale": {
+    "dout_pin": 5,
+    "pd_sck_pin": 6,
+    "calibration_factor": 1.0,
+    "reference_unit": 1,
+    "offset": 0
+  },
+  "billing": {
+    "tax_rate": 0.1,
+    "currency": "USD",
+    "currency_symbol": "$",
+    "store_name": "Smart Store",
+    "store_address": "123 Main Street",
+    "store_phone": "+1-234-567-8900",
+    "invoice_prefix": "INV"
+  },
+  "display": {
+    "show_preview": true,
+    "window_name": "Smart Billing System",
+    "font_size": 12
+  },
+  "paths": {
+    "models_dir": "models",
+    "invoices_dir": "invoices",
+    "logs_dir": "logs",
+    "products_db": "config/products.json"
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file": "logs/app.log"
+  }
+}
