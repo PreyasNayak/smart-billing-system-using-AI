@@ -1,0 +1,44 @@
+{
+  "apple": {
+    "name": "Apple",
+    "price_per_kg": 3.50,
+    "category": "fruits",
+    "tax_rate": 0.05
+  },
+  "banana": {
+    "name": "Banana",
+    "price_per_kg": 2.00,
+    "category": "fruits",
+    "tax_rate": 0.05
+  },
+  "orange": {
+    "name": "Orange",
+    "price_per_kg": 2.80,
+    "category": "fruits",
+    "tax_rate": 0.05
+  },
+  "tomato": {
+    "name": "Tomato",
+    "price_per_kg": 1.50,
+    "category": "vegetables",
+    "tax_rate": 0.05
+  },
+  "potato": {
+    "name": "Potato",
+    "price_per_kg": 1.20,
+    "category": "vegetables",
+    "tax_rate": 0.05
+  },
+  "onion": {
+    "name": "Onion",
+    "price_per_kg": 1.00,
+    "category": "vegetables",
+    "tax_rate": 0.05
+  },
+  "carrot": {
+    "name": "Carrot",
+    "price_per_kg": 1.80,
+    "category": "vegetables",
+    "tax_rate": 0.05
+  }
+}
